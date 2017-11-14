@@ -5,3 +5,6 @@ install:
 deploy:
 	npm install hexo-deployer-git --save
 	hexo deploy -g
+
+gen:
+	hexo generate
