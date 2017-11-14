@@ -74,6 +74,18 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: cactus-dark
 
+nav:
+  Home: /
+  About: /about/
+  Writing: /archives/
+  Projects: https://github.com/pei0804
+  LINK_NAME: URL
+
+customize:
+  social_links:
+    github: https://github.com/pei0804
+    twitter: https://www.facebook.com/profile.php?id=100006322935889
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
